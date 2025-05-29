@@ -33,6 +33,16 @@ class CryptoTradingBot:
         self.default_symbols = ['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'ADA/USDT', 'SOL/USDT']
         self.user_watchlists = {}  # Store user-specific watchlists
         
+        # Notification settings
+        self.notification_chat_id = os.getenv('TELEGRAM_BOT_CHAT_ID')
+        self.notification_enabled = os.getenv('NOTIFICATION_ENABLED', 'false').lower() == 'true'
+        self.notification_interval = int(os.getenv('NOTIFICATION_INTERVAL', '3600'))
+        self.notification_signals = os.getenv('NOTIFICATION_SIGNALS', 'BUY,SELL').split(',')
+        self.min_confidence = int(os.getenv('MIN_CONFIDENCE', '70'))
+        
+        # Track last signals to avoid spam
+        self.last_signals = {}
+        
     async def start(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
         """Start command handler"""
         welcome_message = """
@@ -44,7 +54,7 @@ Based on John J. Murphy's Technical Analysis principles!
 📊 `/analyze <symbol>` - Analyze a specific crypto (e.g., /analyze BTC/USDT)
 📈 `/signals` - Get signals for all watchlist coins
 🔍 `/watchlist` - Manage your watchlist
-⚙️ `/settings` - Bot settings
+🔔 `/notifications` - Manage notifications
 📚 `/help` - Show this help message
 
 **Features:**
@@ -54,6 +64,7 @@ Based on John J. Murphy's Technical Analysis principles!
 ✅ Chart Pattern Detection
 ✅ Risk/Reward Calculations
 ✅ Visual Charts
+✅ Automatic Signal Notifications
 
 Type `/signals` to get started with default crypto analysis!
         """
@@ -70,7 +81,8 @@ Type `/signals` to get started with default crypto analysis!
 • `/analyze BTC/USDT` - Analyze specific symbol
 • `/signals` - Get all watchlist signals
 • `/watchlist` - Manage watchlist
-• `/settings` - Configure bot settings
+• `/notifications` - Manage auto notifications
+• `/getchatid` - Get your chat ID for notifications
 
 **Analysis Features:**
 🔹 **Trend Analysis** - Moving averages, MACD
@@ -85,10 +97,76 @@ Type `/signals` to get started with default crypto analysis!
 🟡 **MEDIUM** - Moderate confidence (60-80%)
 🔴 **WEAK** - Low confidence (<60%)
 
+**Notifications:**
+🔔 Automatic alerts for BUY/SELL signals
+⚙️ Configurable confidence threshold
+🎯 Customizable watchlist monitoring
+
 Based on John J. Murphy's "Technical Analysis of Financial Markets"
         """
         
         await update.message.reply_text(help_text, parse_mode=ParseMode.MARKDOWN)
+    
+    async def get_chat_id(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
+        """Get chat ID for notifications setup"""
+        chat_id = update.effective_chat.id
+        user_name = update.effective_user.first_name
+        
+        message = f"""
+🆔 **Chat ID Information**
+
+👤 **User:** {user_name}
+🆔 **Chat ID:** `{chat_id}`
+
+**To enable automatic notifications:**
+1. Copy your Chat ID: `{chat_id}`
+2. Add it to your config file: `TELEGRAM_BOT_CHAT_ID={chat_id}`
+3. Restart the bot
+4. Use `/notifications` to configure settings
+
+**Note:** This chat ID will receive automatic BUY/SELL alerts!
+        """
+        
+        await update.message.reply_text(message, parse_mode=ParseMode.MARKDOWN)
+    
+    async def manage_notifications(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
+        """Manage notification settings"""
+        chat_id = update.effective_chat.id
+        
+        # Check if notifications are configured
+        if not self.notification_chat_id:
+            await update.message.reply_text("""
+🔔 **Notifications Not Configured**
+
+To enable automatic notifications:
+1. Use `/getchatid` to get your chat ID
+2. Add `TELEGRAM_BOT_CHAT_ID=your_chat_id` to config.env
+3. Set `NOTIFICATION_ENABLED=true`
+4. Restart the bot
+
+Current notification settings will be loaded from config.env
+            """, parse_mode=ParseMode.MARKDOWN)
+            return
+        
+        status = "🟢 Enabled" if self.notification_enabled else "🔴 Disabled"
+        
+        notification_info = f"""
+🔔 **Notification Settings**
+
+**Status:** {status}
+**Chat ID:** `{self.notification_chat_id}`
+**Check Interval:** {self.notification_interval} seconds
+**Signal Types:** {', '.join(self.notification_signals)}
+**Min Confidence:** {self.min_confidence}%
+
+**Monitored Symbols:**
+{chr(10).join([f"• {symbol}" for symbol in self.default_symbols])}
+
+**To modify settings:**
+Edit your config.env file and restart the bot.
+        """
+        
+        await update.message.reply_text(notification_info, parse_mode=ParseMode.MARKDOWN)
     
     async def analyze_symbol(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
         """Analyze a specific symbol"""
@@ -193,6 +271,108 @@ Based on John J. Murphy's "Technical Analysis of Financial Markets"
         
         await update.message.reply_text(watchlist_text, parse_mode=ParseMode.MARKDOWN,
                                        reply_markup=InlineKeyboardMarkup(keyboard))
+    
+    async def send_notification(self, context: ContextTypes.DEFAULT_TYPE, signals: Dict):
+        """Send notification for BUY/SELL signals"""
+        try:
+            if not self.notification_enabled or not self.notification_chat_id:
+                return
+            
+            signal = signals['signal']
+            symbol = signals['symbol']
+            confidence = signals['confidence']
+            
+            # Check if we should notify about this signal
+            if signal not in self.notification_signals:
+                return
+                
+            # Check confidence threshold
+            if confidence < self.min_confidence:
+                return
+            
+            # Check if this is a new signal (avoid spam)
+            signal_key = f"{symbol}_{signal}_{confidence}"
+            if signal_key in self.last_signals:
+                time_diff = datetime.now() - self.last_signals[signal_key]
+                if time_diff.total_seconds() < 1800:  # Don't repeat same signal within 30 minutes
+                    return
+            
+            # Record this signal
+            self.last_signals[signal_key] = datetime.now()
+            
+            # Create notification message
+            signal_emoji = "🟢" if signal == 'BUY' else "🔴"
+            strength_emoji = {"STRONG": "🔥", "MEDIUM": "⚡", "WEAK": "💧"}.get(signals['strength'], "❓")
+            
+            notification = f"""
+🚨 **TRADING ALERT** 🚨
+
+{signal_emoji} **{symbol} - {signal} SIGNAL** {strength_emoji}
+
+💪 **Strength:** {signals['strength']}
+🎲 **Confidence:** {confidence}%
+💰 **Current Price:** ${signals['price']:.4f}
+
+**📊 Technical Setup:**
+🎯 Entry: ${signals['entry_price']:.4f}
+🛡️ Stop Loss: ${signals['stop_loss']:.4f}
+🎯 Take Profit: ${signals['take_profit']:.4f}
+📊 Risk/Reward: 1:{signals['risk_reward']}
+
+**📈 Key Indicators:**
+• RSI: {signals['indicators'].get('rsi', 'N/A')}
+• SMA20: ${signals['indicators'].get('sma_20', 'N/A')}
+
+⏰ {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+
+*Based on Murphy's Technical Analysis*
+            """
+            
+            # Send notification
+            await context.bot.send_message(
+                chat_id=self.notification_chat_id,
+                text=notification,
+                parse_mode=ParseMode.MARKDOWN
+            )
+            
+            # Send chart if possible
+            try:
+                df = self.analyzer.get_ohlcv_data(symbol)
+                if not df.empty:
+                    chart_buffer = self.chart_generator.create_analysis_chart(df, signals, symbol)
+                    await context.bot.send_photo(
+                        chat_id=self.notification_chat_id,
+                        photo=chart_buffer,
+                        caption=f"📊 {symbol} Technical Analysis Chart"
+                    )
+            except Exception as chart_error:
+                logger.error(f"Error sending chart in notification: {chart_error}")
+                
+        except Exception as e:
+            logger.error(f"Error sending notification: {e}")
+    
+    async def check_signals_job(self, context: ContextTypes.DEFAULT_TYPE):
+        """Background job to check for signals and send notifications"""
+        try:
+            logger.info("🔍 Checking signals for notifications...")
+            
+            for symbol in self.default_symbols:
+                try:
+                    signals = self.analyzer.analyze_symbol(symbol)
+                    
+                    if signals['signal'] in ['BUY', 'SELL']:
+                        await self.send_notification(context, signals)
+                        
+                    # Small delay between symbols to avoid rate limits
+                    await asyncio.sleep(2)
+                    
+                except Exception as symbol_error:
+                    logger.error(f"Error checking {symbol}: {symbol_error}")
+                    
+            logger.info("✅ Signal check completed")
+            
+        except Exception as e:
+            logger.error(f"Error in signal check job: {e}")
     
     async def button_callback(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
         """Handle button callbacks"""
@@ -395,8 +575,21 @@ def main():
     application.add_handler(CommandHandler("analyze", bot.analyze_symbol))
     application.add_handler(CommandHandler("signals", bot.get_signals))
     application.add_handler(CommandHandler("watchlist", bot.manage_watchlist))
+    application.add_handler(CommandHandler("notifications", bot.manage_notifications))
+    application.add_handler(CommandHandler("getchatid", bot.get_chat_id))
     application.add_handler(CallbackQueryHandler(bot.button_callback))
     application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, bot.handle_message))
+    
+    # Add job queue for notifications
+    if bot.notification_enabled and bot.notification_chat_id:
+        job_queue = application.job_queue
+        job_queue.run_repeating(
+            bot.check_signals_job, 
+            interval=bot.notification_interval, 
+            first=30  # Start after 30 seconds
+        )
+        print(f"🔔 Notifications enabled for chat ID: {bot.notification_chat_id}")
+        print(f"📊 Checking signals every {bot.notification_interval} seconds")
     
     # Start the bot
     print("🚀 Murphy's Crypto Trading Bot is starting...")
