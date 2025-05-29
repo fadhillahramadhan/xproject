@@ -1,0 +1,8 @@
+yfinance>=0.2.18
+python-telegram-bot>=20.0
+pandas>=2.0.0
+numpy>=1.25.0
+matplotlib>=3.7.0
+python-dotenv>=1.0.0
+schedule>=1.2.0
+openai>=1.0.0 

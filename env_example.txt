@@ -1,0 +1,18 @@
+# Telegram Bot Configuration
+# Get your bot token from @BotFather on Telegram
+TELEGRAM_BOT_TOKEN=your_bot_token_here
+
+# Get your chat ID by messaging @userinfobot on Telegram
+TELEGRAM_CHAT_ID=your_chat_id_here
+
+# OpenAI API Configuration
+# Get your API key from https://platform.openai.com/api-keys
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Watchlist Configuration (Optional - modify in config.py)
+# ENABLE_WATCHLIST=True
+# WATCHLIST_ALERT_THRESHOLD=0.5
+# WATCHLIST_PRIORITY_MULTIPLIER=1.2
+# WATCHLIST_PRICE_ALERT_PERCENTAGE=5.0
+# ENABLE_WATCHLIST_VOLUME_ALERTS=True
+# ENABLE_WATCHLIST_DAILY_SUMMARY=True 

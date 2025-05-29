@@ -1,0 +1,827 @@
+2025-05-28 05:23:22,272 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:23:22,272 - INFO - Analyzing BBCA.JK...
+2025-05-28 05:23:23,302 - ERROR - Failed to get ticker 'BBCA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2025-05-28 05:23:24,239 - ERROR - BBCA.JK: No price data found, symbol may be delisted (period=60d)
+2025-05-28 05:23:24,240 - WARNING - No data found for BBCA.JK
+2025-05-28 05:23:24,240 - WARNING - Insufficient data for BBCA.JK
+2025-05-28 05:25:09,580 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:25:09,580 - INFO - Analyzing BBCA.JK...
+2025-05-28 05:25:10,628 - ERROR - Failed to get ticker 'BBCA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2025-05-28 05:25:11,580 - ERROR - BBCA.JK: No price data found, symbol may be delisted (period=60d)
+2025-05-28 05:25:11,580 - WARNING - No data found for BBCA.JK
+2025-05-28 05:25:11,580 - WARNING - Insufficient data for BBCA.JK
+2025-05-28 05:28:29,615 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:28:29,616 - INFO - Starting Enhanced Indonesian Stock Trading Bot...
+2025-05-28 05:28:29,616 - INFO - Bot scheduled to run daily at 17:00 Jakarta time
+2025-05-28 05:28:29,617 - INFO - Press Ctrl+C to stop the bot
+2025-05-28 05:28:44,697 - INFO - Bot stopped by user
+2025-05-28 05:28:51,709 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:28:51,710 - INFO - Analyzing BBCA.JK...
+2025-05-28 05:28:52,245 - ERROR - Failed to get ticker 'BBCA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2025-05-28 05:28:52,659 - ERROR - BBCA.JK: No price data found, symbol may be delisted (period=60d)
+2025-05-28 05:28:52,659 - WARNING - No data found for BBCA.JK
+2025-05-28 05:28:52,659 - WARNING - Insufficient data for BBCA.JK
+2025-05-28 05:29:04,237 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:29:04,237 - INFO - Analyzing test...
+2025-05-28 05:29:04,616 - ERROR - Failed to get ticker 'TEST' reason: Expecting value: line 1 column 1 (char 0)
+2025-05-28 05:29:05,029 - ERROR - TEST: No price data found, symbol may be delisted (period=60d)
+2025-05-28 05:29:05,030 - WARNING - No data found for test
+2025-05-28 05:29:05,030 - WARNING - Insufficient data for test
+2025-05-28 05:29:39,351 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:29:39,352 - INFO - Analyzing test...
+2025-05-28 05:29:39,731 - ERROR - Failed to get ticker 'TEST' reason: Expecting value: line 1 column 1 (char 0)
+2025-05-28 05:29:40,096 - ERROR - TEST: No price data found, symbol may be delisted (period=60d)
+2025-05-28 05:29:40,097 - WARNING - No data found for test
+2025-05-28 05:29:40,097 - WARNING - Insufficient data for test
+2025-05-28 05:29:48,607 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:29:48,607 - INFO - Analyzing ASII...
+2025-05-28 05:29:49,044 - ERROR - Failed to get ticker 'ASII' reason: Expecting value: line 1 column 1 (char 0)
+2025-05-28 05:29:49,428 - ERROR - ASII: No price data found, symbol may be delisted (period=60d)
+2025-05-28 05:29:49,428 - WARNING - No data found for ASII
+2025-05-28 05:29:49,429 - WARNING - Insufficient data for ASII
+2025-05-28 05:29:54,599 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:29:54,600 - INFO - Analyzing BBCA...
+2025-05-28 05:29:55,080 - ERROR - Failed to get ticker 'BBCA' reason: Expecting value: line 1 column 1 (char 0)
+2025-05-28 05:29:55,528 - ERROR - BBCA: No price data found, symbol may be delisted (period=60d)
+2025-05-28 05:29:55,529 - WARNING - No data found for BBCA
+2025-05-28 05:29:55,529 - WARNING - Insufficient data for BBCA
+2025-05-28 05:30:05,792 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:30:05,792 - INFO - Analyzing TSLA...
+2025-05-28 05:30:06,211 - ERROR - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-05-28 05:30:06,611 - ERROR - TSLA: No price data found, symbol may be delisted (period=60d)
+2025-05-28 05:30:06,611 - WARNING - No data found for TSLA
+2025-05-28 05:30:06,611 - WARNING - Insufficient data for TSLA
+2025-05-28 05:30:47,309 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:30:47,309 - INFO - Analyzing BBCA.JK...
+2025-05-28 05:30:47,757 - ERROR - Failed to get ticker 'BBCA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2025-05-28 05:30:48,151 - ERROR - BBCA.JK: No price data found, symbol may be delisted (period=60d)
+2025-05-28 05:30:48,151 - WARNING - No data found for BBCA.JK
+2025-05-28 05:30:48,151 - WARNING - Insufficient data for BBCA.JK
+2025-05-28 05:31:56,636 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:31:56,636 - INFO - Analyzing AAPL...
+2025-05-28 05:31:57,086 - ERROR - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-05-28 05:31:57,557 - ERROR - AAPL: No price data found, symbol may be delisted (period=60d)
+2025-05-28 05:31:57,558 - WARNING - No data found for AAPL
+2025-05-28 05:31:57,558 - WARNING - Insufficient data for AAPL
+2025-05-28 05:32:20,991 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:32:20,991 - INFO - Analyzing AAPL...
+2025-05-28 05:32:21,433 - ERROR - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-05-28 05:32:21,900 - ERROR - AAPL: No price data found, symbol may be delisted (period=60d)
+2025-05-28 05:32:21,900 - WARNING - No data found for AAPL
+2025-05-28 05:32:21,900 - WARNING - Insufficient data for AAPL
+2025-05-28 05:35:03,651 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:35:03,652 - INFO - Analyzing BBCA.JK...
+2025-05-28 05:35:03,652 - INFO - Fetching BBCA.JK data for period: 60d
+2025-05-28 05:35:04,768 - INFO - Successfully fetched 60 days of data for BBCA.JK
+2025-05-28 05:35:13,559 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 05:35:13,560 - INFO - Message sent to Telegram successfully
+2025-05-28 05:35:13,561 - INFO - Signal sent for BBCA.JK: SELL - Bearish Divergence
+2025-05-28 05:36:11,362 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:36:11,363 - INFO - Analyzing BBRI.JK...
+2025-05-28 05:36:11,364 - INFO - Fetching BBRI.JK data for period: 60d
+2025-05-28 05:36:13,207 - INFO - Successfully fetched 60 days of data for BBRI.JK
+2025-05-28 05:36:17,555 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 05:36:17,555 - INFO - Message sent to Telegram successfully
+2025-05-28 05:36:17,555 - INFO - Signal sent for BBRI.JK: SELL - RSI Overbought
+2025-05-28 05:37:07,726 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:37:07,726 - INFO - Analyzing ASII...
+2025-05-28 05:37:07,726 - INFO - Fetching ASII data for period: 60d
+2025-05-28 05:37:08,975 - INFO - Successfully fetched 60 days of data for ASII
+2025-05-28 05:37:54,097 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:37:54,097 - INFO - Analyzing BBNI...
+2025-05-28 05:37:54,097 - INFO - Fetching BBNI data for period: 60d
+2025-05-28 05:37:56,747 - WARNING - Failed to fetch BBNI with period 60d: HTTP Error 404: 
+2025-05-28 05:37:56,748 - INFO - Fetching BBNI data for period: 30d
+2025-05-28 05:37:56,749 - WARNING - Failed to fetch BBNI with period 30d: argument of type 'NoneType' is not iterable
+2025-05-28 05:37:56,749 - INFO - Fetching BBNI data for period: 1mo
+2025-05-28 05:37:57,488 - ERROR - $BBNI: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-05-28 05:37:57,488 - WARNING - No data found for BBNI with period 1mo
+2025-05-28 05:37:57,488 - INFO - Fetching BBNI data for period: 3mo
+2025-05-28 05:37:58,195 - ERROR - $BBNI: possibly delisted; no price data found  (period=3mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-05-28 05:37:58,195 - WARNING - No data found for BBNI with period 3mo
+2025-05-28 05:37:58,195 - ERROR - All periods failed for BBNI
+2025-05-28 05:37:58,195 - WARNING - Insufficient data for BBNI
+2025-05-28 05:38:07,178 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:38:07,178 - INFO - Analyzing BBNI.JK...
+2025-05-28 05:38:07,178 - INFO - Fetching BBNI.JK data for period: 60d
+2025-05-28 05:38:08,201 - INFO - Successfully fetched 60 days of data for BBNI.JK
+2025-05-28 05:38:12,868 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 05:38:12,869 - INFO - Message sent to Telegram successfully
+2025-05-28 05:38:12,869 - INFO - Signal sent for BBNI.JK: SELL - RSI Overbought
+2025-05-28 05:38:53,226 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:38:53,227 - INFO - Analyzing TSLA...
+2025-05-28 05:38:53,229 - INFO - Fetching TSLA data for period: 60d
+2025-05-28 05:38:54,246 - INFO - Successfully fetched 60 days of data for TSLA
+2025-05-28 05:38:58,579 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 05:38:58,579 - INFO - Message sent to Telegram successfully
+2025-05-28 05:38:58,579 - INFO - Signal sent for TSLA: SELL - RSI Overbought
+2025-05-28 05:40:01,285 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:40:01,286 - INFO - Analyzing NVDIA...
+2025-05-28 05:40:01,287 - INFO - Fetching NVDIA data for period: 60d
+2025-05-28 05:40:03,786 - WARNING - Failed to fetch NVDIA with period 60d: HTTP Error 404: 
+2025-05-28 05:40:03,786 - INFO - Fetching NVDIA data for period: 30d
+2025-05-28 05:40:03,786 - WARNING - Failed to fetch NVDIA with period 30d: argument of type 'NoneType' is not iterable
+2025-05-28 05:40:03,786 - INFO - Fetching NVDIA data for period: 1mo
+2025-05-28 05:40:04,455 - ERROR - $NVDIA: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-05-28 05:40:04,457 - WARNING - No data found for NVDIA with period 1mo
+2025-05-28 05:40:04,457 - INFO - Fetching NVDIA data for period: 3mo
+2025-05-28 05:40:05,145 - ERROR - $NVDIA: possibly delisted; no price data found  (period=3mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-05-28 05:40:05,147 - WARNING - No data found for NVDIA with period 3mo
+2025-05-28 05:40:05,147 - ERROR - All periods failed for NVDIA
+2025-05-28 05:40:05,147 - WARNING - Insufficient data for NVDIA
+2025-05-28 05:49:28,598 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 05:49:29,196 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:49:29,196 - INFO - Analyzing BBCA.JK...
+2025-05-28 05:49:29,196 - INFO - Fetching BBCA.JK data for period: 60d
+2025-05-28 05:49:30,882 - INFO - Successfully fetched 60 days of data for BBCA.JK
+2025-05-28 05:49:30,890 - INFO - Requesting ChatGPT confirmation for BBCA.JK (attempt 1)
+2025-05-28 05:49:36,350 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 05:49:36,352 - INFO - ChatGPT analysis complete for BBCA.JK: CONFIRM (confidence: 0.75)
+2025-05-28 05:49:39,486 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 05:49:39,486 - INFO - Message sent to Telegram successfully
+2025-05-28 05:49:39,486 - INFO - Signal sent for BBCA.JK: SELL - Bearish Divergence (ChatGPT: CONFIRM)
+2025-05-28 05:51:49,019 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 05:51:49,584 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:51:49,584 - INFO - Analyzing TSLA...
+2025-05-28 05:51:49,584 - INFO - Fetching TSLA data for period: 60d
+2025-05-28 05:51:50,942 - INFO - Successfully fetched 60 days of data for TSLA
+2025-05-28 05:51:50,951 - INFO - Requesting ChatGPT confirmation for TSLA (attempt 1)
+2025-05-28 05:51:58,575 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 05:51:58,575 - INFO - ChatGPT analysis complete for TSLA: MODIFY (confidence: 0.75)
+2025-05-28 05:52:01,457 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 400 Bad Request"
+2025-05-28 05:52:01,457 - ERROR - Error sending Telegram message: Message caption is too long
+2025-05-28 05:52:01,457 - INFO - Signal sent for TSLA: SELL - RSI Overbought (ChatGPT: MODIFY)
+2025-05-28 05:56:20,086 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 05:56:20,675 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 05:56:20,675 - INFO - Analyzing TSLA...
+2025-05-28 05:56:20,675 - INFO - Fetching TSLA data for period: 60d
+2025-05-28 05:56:21,689 - INFO - Successfully fetched 60 days of data for TSLA
+2025-05-28 05:56:21,704 - INFO - Requesting ChatGPT confirmation for TSLA (attempt 1)
+2025-05-28 05:56:30,694 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 05:56:30,701 - INFO - ChatGPT analysis complete for TSLA: MODIFY (confidence: 0.75)
+2025-05-28 05:56:33,474 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 400 Bad Request"
+2025-05-28 05:56:33,475 - ERROR - Error sending Telegram message: Message caption is too long
+2025-05-28 05:56:33,475 - INFO - Signal sent for TSLA: SELL - RSI Overbought (ChatGPT: MODIFY)
+2025-05-28 06:00:22,268 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:00:22,873 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:00:22,873 - INFO - Watchlist enabled with 4 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK
+2025-05-28 06:00:22,873 - INFO - Analyzing BBCA.JK...
+2025-05-28 06:00:22,873 - INFO - Fetching BBCA.JK data for period: 60d
+2025-05-28 06:00:23,896 - INFO - Successfully fetched 60 days of data for BBCA.JK
+2025-05-28 06:00:23,912 - INFO - Requesting ChatGPT confirmation for BBCA.JK (attempt 1)
+2025-05-28 06:00:34,600 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 06:00:34,603 - INFO - ChatGPT analysis complete for BBCA.JK: CONFIRM (confidence: 0.75)
+2025-05-28 06:00:34,604 - INFO - Watchlist stock BBCA.JK: Using lower threshold 0.5 and boosted confidence
+2025-05-28 06:00:37,656 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 400 Bad Request"
+2025-05-28 06:00:37,657 - ERROR - Error sending Telegram message: Message caption is too long
+2025-05-28 06:00:37,657 - INFO - Signal sent for BBCA.JK: SELL - Bearish Divergence (ChatGPT: CONFIRM)
+2025-05-28 06:01:24,823 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:01:25,429 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:01:25,429 - INFO - Watchlist enabled with 4 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK
+2025-05-28 06:01:25,429 - INFO - Analyzing GOTO.JK...
+2025-05-28 06:01:25,429 - INFO - Fetching GOTO.JK data for period: 60d
+2025-05-28 06:01:26,574 - INFO - Successfully fetched 60 days of data for GOTO.JK
+2025-05-28 06:03:22,080 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:03:22,668 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:03:22,668 - INFO - Watchlist enabled with 4 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK
+2025-05-28 06:03:41,767 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:03:42,364 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:03:42,364 - INFO - Watchlist enabled with 4 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK
+2025-05-28 06:03:42,364 - INFO - Analyzing BBCA.JK...
+2025-05-28 06:03:42,365 - INFO - Fetching BBCA.JK data for period: 60d
+2025-05-28 06:03:43,346 - INFO - Successfully fetched 60 days of data for BBCA.JK
+2025-05-28 06:03:43,352 - INFO - Requesting ChatGPT confirmation for BBCA.JK (attempt 1)
+2025-05-28 06:03:50,505 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 06:03:50,572 - INFO - ChatGPT analysis complete for BBCA.JK: CONFIRM (confidence: 0.75)
+2025-05-28 06:03:50,573 - INFO - Watchlist stock BBCA.JK: Using lower threshold 0.5 and boosted confidence
+2025-05-28 06:03:53,490 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 400 Bad Request"
+2025-05-28 06:03:53,491 - ERROR - Error sending Telegram message: Message caption is too long
+2025-05-28 06:03:53,491 - INFO - Signal sent for BBCA.JK: SELL - Bearish Divergence (ChatGPT: CONFIRM)
+2025-05-28 06:06:17,182 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:06:17,778 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:06:17,778 - INFO - Watchlist enabled with 4 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK
+2025-05-28 06:06:17,778 - INFO - Analyzing BBCA.JK...
+2025-05-28 06:06:17,778 - INFO - Fetching BBCA.JK data for period: 60d
+2025-05-28 06:06:18,541 - INFO - Successfully fetched 60 days of data for BBCA.JK
+2025-05-28 06:06:18,553 - INFO - Requesting ChatGPT confirmation for BBCA.JK (attempt 1)
+2025-05-28 06:06:30,970 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 06:06:30,970 - INFO - ChatGPT analysis complete for BBCA.JK: CONFIRM (confidence: 0.75)
+2025-05-28 06:06:30,970 - INFO - Watchlist stock BBCA.JK: Using lower threshold 0.5 and boosted confidence
+2025-05-28 06:06:34,038 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 06:06:34,039 - INFO - Message sent to Telegram successfully
+2025-05-28 06:06:34,039 - INFO - Signal sent for BBCA.JK: SELL - Bearish Divergence (ChatGPT: CONFIRM)
+2025-05-28 06:10:02,465 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:10:03,030 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:10:03,030 - INFO - Watchlist enabled with 4 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK
+2025-05-28 06:10:03,030 - INFO - Analyzing BBRI.JK...
+2025-05-28 06:10:03,030 - INFO - Fetching BBRI.JK data for period: 60d
+2025-05-28 06:10:04,022 - INFO - Successfully fetched 60 days of data for BBRI.JK
+2025-05-28 06:10:04,037 - INFO - Requesting ChatGPT confirmation for BBRI.JK (attempt 1)
+2025-05-28 06:10:13,575 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 06:10:13,579 - INFO - ChatGPT analysis complete for BBRI.JK: MODIFY (confidence: 0.75)
+2025-05-28 06:10:13,579 - INFO - Watchlist stock BBRI.JK: Using lower threshold 0.5 and boosted confidence
+2025-05-28 06:10:16,929 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 06:10:16,944 - INFO - Message sent to Telegram successfully
+2025-05-28 06:10:16,944 - INFO - Signal sent for BBRI.JK: SELL - RSI Overbought (ChatGPT: MODIFY)
+2025-05-28 06:10:54,838 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:10:55,414 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:10:55,414 - INFO - Watchlist enabled with 4 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK
+2025-05-28 06:10:55,414 - INFO - Analyzing ADRO...
+2025-05-28 06:10:55,414 - INFO - Fetching ADRO data for period: 60d
+2025-05-28 06:10:59,710 - ERROR - $ADRO: possibly delisted; no price data found  (period=60d) (Yahoo error = "No data found, symbol may be delisted")
+2025-05-28 06:10:59,710 - WARNING - No data found for ADRO with period 60d
+2025-05-28 06:10:59,711 - INFO - Fetching ADRO data for period: 30d
+2025-05-28 06:11:00,439 - ERROR - $ADRO: possibly delisted; no price data found  (period=30d) (Yahoo error = "No data found, symbol may be delisted")
+2025-05-28 06:11:00,439 - WARNING - No data found for ADRO with period 30d
+2025-05-28 06:11:00,439 - INFO - Fetching ADRO data for period: 1mo
+2025-05-28 06:11:01,187 - ERROR - $ADRO: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-05-28 06:11:01,187 - WARNING - No data found for ADRO with period 1mo
+2025-05-28 06:11:01,187 - INFO - Fetching ADRO data for period: 3mo
+2025-05-28 06:11:01,854 - ERROR - $ADRO: possibly delisted; no price data found  (period=3mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-05-28 06:11:01,854 - WARNING - No data found for ADRO with period 3mo
+2025-05-28 06:11:01,854 - ERROR - All periods failed for ADRO
+2025-05-28 06:11:01,854 - WARNING - Insufficient data for ADRO
+2025-05-28 06:11:07,084 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:11:07,646 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:11:07,647 - INFO - Watchlist enabled with 4 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK
+2025-05-28 06:11:07,647 - INFO - Analyzing ADRO.JK...
+2025-05-28 06:11:07,648 - INFO - Fetching ADRO.JK data for period: 60d
+2025-05-28 06:11:09,424 - INFO - Successfully fetched 60 days of data for ADRO.JK
+2025-05-28 06:11:09,433 - INFO - Requesting ChatGPT confirmation for ADRO.JK (attempt 1)
+2025-05-28 06:11:18,211 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 06:11:18,214 - INFO - ChatGPT analysis complete for ADRO.JK: MODIFY (confidence: 0.75)
+2025-05-28 06:11:24,137 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 06:11:24,152 - INFO - Message sent to Telegram successfully
+2025-05-28 06:11:24,152 - INFO - Signal sent for ADRO.JK: SELL - Bearish Divergence (ChatGPT: MODIFY)
+2025-05-28 06:12:01,620 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:12:02,179 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:12:02,179 - INFO - Watchlist enabled with 4 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK
+2025-05-28 06:12:02,179 - INFO - Analyzing AADI.JK...
+2025-05-28 06:12:02,179 - INFO - Fetching AADI.JK data for period: 60d
+2025-05-28 06:12:03,491 - INFO - Successfully fetched 60 days of data for AADI.JK
+2025-05-28 06:13:04,688 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:13:05,249 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:13:05,249 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 06:13:05,249 - INFO - Analyzing AADI.JK...
+2025-05-28 06:13:05,249 - INFO - Fetching AADI.JK data for period: 60d
+2025-05-28 06:13:06,206 - INFO - Successfully fetched 60 days of data for AADI.JK
+2025-05-28 06:14:34,142 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:14:34,715 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:14:34,715 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 06:14:34,715 - INFO - Analyzing BSDE...
+2025-05-28 06:14:34,715 - INFO - Fetching BSDE data for period: 60d
+2025-05-28 06:14:36,504 - ERROR - $BSDE: possibly delisted; no price data found  (period=60d)
+2025-05-28 06:14:36,504 - WARNING - No data found for BSDE with period 60d
+2025-05-28 06:14:36,504 - INFO - Fetching BSDE data for period: 30d
+2025-05-28 06:14:36,576 - ERROR - $BSDE: possibly delisted; no price data found  (period=30d)
+2025-05-28 06:14:36,576 - WARNING - No data found for BSDE with period 30d
+2025-05-28 06:14:36,576 - INFO - Fetching BSDE data for period: 1mo
+2025-05-28 06:14:36,738 - ERROR - $BSDE: possibly delisted; no price data found  (period=1mo)
+2025-05-28 06:14:36,754 - WARNING - No data found for BSDE with period 1mo
+2025-05-28 06:14:36,754 - INFO - Fetching BSDE data for period: 3mo
+2025-05-28 06:14:36,803 - ERROR - $BSDE: possibly delisted; no price data found  (period=3mo)
+2025-05-28 06:14:36,804 - WARNING - No data found for BSDE with period 3mo
+2025-05-28 06:14:36,804 - ERROR - All periods failed for BSDE
+2025-05-28 06:14:36,804 - WARNING - Insufficient data for BSDE
+2025-05-28 06:14:58,909 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:14:59,485 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:14:59,486 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 06:14:59,486 - INFO - Analyzing BSDE.jk...
+2025-05-28 06:14:59,487 - INFO - Fetching BSDE.jk data for period: 60d
+2025-05-28 06:15:01,679 - INFO - Successfully fetched 60 days of data for BSDE.jk
+2025-05-28 06:16:45,000 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:16:45,590 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:16:45,590 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 06:16:45,591 - INFO - Analyzing BSDE.JK...
+2025-05-28 06:16:45,591 - INFO - Fetching BSDE.JK data for period: 60d
+2025-05-28 06:16:46,642 - INFO - Successfully fetched 60 days of data for BSDE.JK
+2025-05-28 06:17:26,577 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:17:27,161 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:17:27,161 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 06:17:27,161 - INFO - Analyzing BBCA.JK...
+2025-05-28 06:17:27,161 - INFO - Fetching BBCA.JK data for period: 60d
+2025-05-28 06:17:28,265 - INFO - Successfully fetched 60 days of data for BBCA.JK
+2025-05-28 06:17:28,273 - INFO - Requesting ChatGPT confirmation for BBCA.JK (attempt 1)
+2025-05-28 06:17:36,905 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 06:17:36,911 - INFO - ChatGPT analysis complete for BBCA.JK: CONFIRM (confidence: 0.75)
+2025-05-28 06:17:36,911 - INFO - Watchlist stock BBCA.JK: Using lower threshold 0.5 and boosted confidence
+2025-05-28 06:17:40,277 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 06:17:40,278 - INFO - Message sent to Telegram successfully
+2025-05-28 06:17:40,278 - INFO - Signal sent for BBCA.JK: SELL - Bearish Divergence (ChatGPT: CONFIRM)
+2025-05-28 06:17:43,585 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:17:44,193 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:17:44,194 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 06:17:44,194 - INFO - Analyzing BBRI.JK...
+2025-05-28 06:17:44,195 - INFO - Fetching BBRI.JK data for period: 60d
+2025-05-28 06:17:45,291 - INFO - Successfully fetched 60 days of data for BBRI.JK
+2025-05-28 06:17:45,301 - INFO - Requesting ChatGPT confirmation for BBRI.JK (attempt 1)
+2025-05-28 06:17:56,940 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 06:17:56,940 - INFO - ChatGPT analysis complete for BBRI.JK: CONFIRM (confidence: 0.75)
+2025-05-28 06:17:56,940 - INFO - Watchlist stock BBRI.JK: Using lower threshold 0.5 and boosted confidence
+2025-05-28 06:18:00,737 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 06:18:00,738 - INFO - Message sent to Telegram successfully
+2025-05-28 06:18:00,738 - INFO - Signal sent for BBRI.JK: SELL - RSI Overbought (ChatGPT: CONFIRM)
+2025-05-28 06:18:04,022 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:18:04,602 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:18:04,603 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 06:18:04,603 - INFO - Analyzing TLKM.JK...
+2025-05-28 06:18:04,604 - INFO - Fetching TLKM.JK data for period: 60d
+2025-05-28 06:18:06,268 - INFO - Successfully fetched 60 days of data for TLKM.JK
+2025-05-28 06:20:15,652 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:20:16,254 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:20:16,254 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 06:20:16,254 - INFO - Analyzing BSDE.JK...
+2025-05-28 06:20:16,255 - INFO - Fetching BSDE.JK data for period: 60d
+2025-05-28 06:20:17,343 - INFO - Successfully fetched 60 days of data for BSDE.JK
+2025-05-28 06:20:17,352 - INFO - Requesting ChatGPT confirmation for BSDE.JK (attempt 1)
+2025-05-28 06:20:27,998 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 06:20:28,003 - INFO - ChatGPT analysis complete for BSDE.JK: MODIFY (confidence: 0.65)
+2025-05-28 06:20:28,004 - INFO - ChatGPT confidence too low for BSDE.JK: 0.65 < 0.7
+2025-05-28 06:20:28,004 - INFO - Signal filtered out for BSDE.JK by ChatGPT confirmation
+2025-05-28 06:21:42,999 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:21:43,609 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:21:43,609 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 06:21:43,609 - INFO - Analyzing BSDE.JK...
+2025-05-28 06:21:43,609 - INFO - Fetching BSDE.JK data for period: 60d
+2025-05-28 06:21:44,049 - INFO - Successfully fetched 60 days of data for BSDE.JK
+2025-05-28 06:21:44,058 - INFO - Requesting ChatGPT confirmation for BSDE.JK (attempt 1)
+2025-05-28 06:21:54,802 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 06:21:54,821 - INFO - ChatGPT analysis complete for BSDE.JK: HOLD (confidence: 0.65)
+2025-05-28 06:21:54,821 - INFO - HOLD signal for BSDE.JK: Bypassing confidence check
+2025-05-28 06:21:59,411 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 06:21:59,411 - INFO - Message sent to Telegram successfully
+2025-05-28 06:21:59,411 - INFO - Signal sent for BSDE.JK: HOLD - No Signal (ChatGPT: HOLD)
+2025-05-28 06:22:33,363 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:22:33,936 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:22:33,937 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 06:22:33,938 - INFO - Analyzing ICBP.JK...
+2025-05-28 06:22:33,938 - INFO - Fetching ICBP.JK data for period: 60d
+2025-05-28 06:22:34,792 - INFO - Successfully fetched 60 days of data for ICBP.JK
+2025-05-28 06:22:34,802 - INFO - Requesting ChatGPT confirmation for ICBP.JK (attempt 1)
+2025-05-28 06:22:45,149 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 06:22:45,152 - INFO - ChatGPT analysis complete for ICBP.JK: HOLD (confidence: 0.65)
+2025-05-28 06:22:45,153 - INFO - HOLD signal for ICBP.JK: Bypassing confidence check
+2025-05-28 06:22:49,883 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 06:22:49,884 - INFO - Message sent to Telegram successfully
+2025-05-28 06:22:49,884 - INFO - Signal sent for ICBP.JK: HOLD - No Signal (ChatGPT: HOLD)
+2025-05-28 06:25:07,836 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:25:08,423 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:25:08,423 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 06:25:08,424 - INFO - Analyzing BSDE.JK...
+2025-05-28 06:25:08,424 - INFO - Fetching BSDE.JK data for period: 60d
+2025-05-28 06:25:10,030 - INFO - Successfully fetched 60 days of data for BSDE.JK
+2025-05-28 06:25:10,041 - INFO - Requesting ChatGPT confirmation for BSDE.JK (attempt 1)
+2025-05-28 06:25:19,020 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 06:25:19,023 - INFO - ChatGPT analysis complete for BSDE.JK: HOLD (confidence: 0.65)
+2025-05-28 06:25:19,023 - INFO - HOLD signal for BSDE.JK: Bypassing confidence check
+2025-05-28 06:25:21,747 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:25:22,331 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:25:22,332 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 06:25:22,332 - INFO - Analyzing ICBP.JK...
+2025-05-28 06:25:22,333 - INFO - Fetching ICBP.JK data for period: 60d
+2025-05-28 06:25:22,381 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 06:25:22,382 - INFO - Message sent to Telegram successfully
+2025-05-28 06:25:22,758 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-28 06:25:22,758 - INFO - Message sent to Telegram successfully
+2025-05-28 06:25:22,759 - INFO - Signal sent for BSDE.JK: HOLD - No Signal (ChatGPT: HOLD)
+2025-05-28 06:25:23,985 - INFO - Successfully fetched 60 days of data for ICBP.JK
+2025-05-28 06:25:23,994 - INFO - Requesting ChatGPT confirmation for ICBP.JK (attempt 1)
+2025-05-28 06:25:29,296 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 06:25:29,300 - INFO - ChatGPT analysis complete for ICBP.JK: MODIFY (confidence: 0.65)
+2025-05-28 06:25:29,301 - INFO - HOLD signal for ICBP.JK: Bypassing confidence check
+2025-05-28 06:25:32,616 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 06:25:32,617 - INFO - Message sent to Telegram successfully
+2025-05-28 06:25:33,008 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-28 06:25:33,009 - INFO - Message sent to Telegram successfully
+2025-05-28 06:25:33,010 - INFO - Signal sent for ICBP.JK: HOLD - No Signal (ChatGPT: MODIFY)
+2025-05-28 06:40:06,095 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:40:06,690 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:40:06,690 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 06:40:06,690 - INFO - Analyzing BBCA.JK...
+2025-05-28 06:40:06,691 - INFO - Fetching BBCA.JK data for period: 60d
+2025-05-28 06:40:08,309 - INFO - Successfully fetched 60 days of data for BBCA.JK
+2025-05-28 06:40:09,558 - INFO - Using ChatGPT Vision analysis for BBCA.JK with chart image
+2025-05-28 06:40:09,558 - INFO - Requesting ChatGPT Vision + Statistical confirmation for BBCA.JK (attempt 1)
+2025-05-28 06:40:18,006 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 06:40:18,006 - INFO - ChatGPT Vision + Statistical analysis complete for BBCA.JK: PROCEED_WITH_CAUTION (confidence: 0.75) | Visual: CONFIRMS
+2025-05-28 06:40:18,006 - INFO - Watchlist stock BBCA.JK: Using lower threshold 0.5 and boosted confidence
+2025-05-28 06:40:19,975 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 06:40:19,975 - INFO - Message sent to Telegram successfully
+2025-05-28 06:40:20,391 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-28 06:40:20,392 - INFO - Message sent to Telegram successfully
+2025-05-28 06:40:20,392 - INFO - Signal sent for BBCA.JK: SELL - Bearish Divergence (ChatGPT: PROCEED_WITH_CAUTION)
+2025-05-28 06:52:31,627 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 06:52:32,200 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 06:52:32,200 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 06:52:32,200 - INFO - Analyzing ICBP.JK...
+2025-05-28 06:52:32,201 - INFO - Fetching ICBP.JK data for period: 60d
+2025-05-28 06:52:33,734 - INFO - Successfully fetched 60 days of data for ICBP.JK
+2025-05-28 06:52:34,976 - INFO - Using ChatGPT Vision analysis for ICBP.JK with chart image
+2025-05-28 06:52:34,977 - INFO - Requesting ChatGPT Vision + Statistical confirmation for ICBP.JK (attempt 1)
+2025-05-28 06:52:59,423 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 06:52:59,425 - INFO - ChatGPT Vision + Statistical analysis complete for ICBP.JK: PROCEED_WITH_CAUTION (confidence: 0.75) | Visual: NEUTRAL
+2025-05-28 06:52:59,426 - INFO - HOLD signal for ICBP.JK: Bypassing confidence check
+2025-05-28 06:53:01,267 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 06:53:01,268 - INFO - Message sent to Telegram successfully
+2025-05-28 06:53:01,631 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-28 06:53:01,632 - INFO - Message sent to Telegram successfully
+2025-05-28 06:53:01,632 - INFO - Signal sent for ICBP.JK: HOLD - No Signal (ChatGPT: PROCEED_WITH_CAUTION)
+2025-05-28 10:01:26,050 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 10:01:26,655 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 10:01:26,656 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 10:01:26,656 - INFO - Analyzing TSLA...
+2025-05-28 10:01:26,656 - INFO - Fetching TSLA data for period: 60d
+2025-05-28 10:01:28,090 - INFO - Successfully fetched 60 days of data for TSLA
+2025-05-28 10:01:29,886 - INFO - Using ChatGPT Vision analysis for TSLA with chart image
+2025-05-28 10:01:29,886 - INFO - Requesting ChatGPT Vision + Statistical confirmation for TSLA (attempt 1)
+2025-05-28 10:01:51,583 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 10:01:51,594 - INFO - ChatGPT Vision + Statistical analysis complete for TSLA: CONFIRM (confidence: 0.85) | Visual: CONFIRMS
+2025-05-28 10:01:56,962 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 10:01:56,963 - INFO - Message sent to Telegram successfully
+2025-05-28 10:01:58,200 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-28 10:01:58,201 - INFO - Message sent to Telegram successfully
+2025-05-28 10:01:58,201 - INFO - Signal sent for TSLA: SELL - RSI Overbought (ChatGPT: CONFIRM)
+2025-05-28 10:02:45,930 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 10:02:46,540 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 10:02:46,541 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 10:02:46,541 - INFO - Analyzing APPL...
+2025-05-28 10:02:46,541 - INFO - Fetching APPL data for period: 60d
+2025-05-28 10:02:47,823 - ERROR - $APPL: possibly delisted; no price data found  (period=60d)
+2025-05-28 10:02:47,823 - WARNING - No data found for APPL with period 60d
+2025-05-28 10:02:47,823 - INFO - Fetching APPL data for period: 30d
+2025-05-28 10:02:48,058 - ERROR - $APPL: possibly delisted; no price data found  (period=30d)
+2025-05-28 10:02:48,058 - WARNING - No data found for APPL with period 30d
+2025-05-28 10:02:48,058 - INFO - Fetching APPL data for period: 1mo
+2025-05-28 10:02:48,292 - ERROR - $APPL: possibly delisted; no price data found  (period=1mo)
+2025-05-28 10:02:48,292 - WARNING - No data found for APPL with period 1mo
+2025-05-28 10:02:48,292 - INFO - Fetching APPL data for period: 3mo
+2025-05-28 10:02:48,699 - ERROR - $APPL: possibly delisted; no price data found  (period=3mo)
+2025-05-28 10:02:48,699 - WARNING - No data found for APPL with period 3mo
+2025-05-28 10:02:48,699 - ERROR - All periods failed for APPL
+2025-05-28 10:02:48,699 - WARNING - Insufficient data for APPL
+2025-05-28 10:03:50,099 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 10:03:50,684 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 10:03:50,684 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 10:03:50,685 - INFO - Analyzing AAPL...
+2025-05-28 10:03:50,685 - INFO - Fetching AAPL data for period: 60d
+2025-05-28 10:03:51,840 - INFO - Successfully fetched 60 days of data for AAPL
+2025-05-28 10:03:53,108 - INFO - Using ChatGPT Vision analysis for AAPL with chart image
+2025-05-28 10:03:53,108 - INFO - Requesting ChatGPT Vision + Statistical confirmation for AAPL (attempt 1)
+2025-05-28 10:04:17,316 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 10:04:17,316 - INFO - ChatGPT Vision + Statistical analysis complete for AAPL: PROCEED_WITH_CAUTION (confidence: 0.75) | Visual: NEUTRAL
+2025-05-28 10:04:17,316 - INFO - HOLD signal for AAPL: Bypassing confidence check
+2025-05-28 10:04:22,715 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 10:04:22,717 - INFO - Message sent to Telegram successfully
+2025-05-28 10:04:23,328 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-28 10:04:23,329 - INFO - Message sent to Telegram successfully
+2025-05-28 10:04:23,329 - INFO - Signal sent for AAPL: HOLD - No Signal (ChatGPT: PROCEED_WITH_CAUTION)
+2025-05-28 10:05:22,107 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 10:05:22,723 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 10:05:22,723 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 10:05:22,723 - INFO - Analyzing PONY...
+2025-05-28 10:05:22,723 - INFO - Fetching PONY data for period: 60d
+2025-05-28 10:05:24,206 - INFO - Successfully fetched 60 days of data for PONY
+2025-05-28 10:05:25,615 - INFO - Using ChatGPT Vision analysis for PONY with chart image
+2025-05-28 10:05:25,615 - INFO - Requesting ChatGPT Vision + Statistical confirmation for PONY (attempt 1)
+2025-05-28 10:05:48,629 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 10:05:48,632 - INFO - ChatGPT Vision + Statistical analysis complete for PONY: CONFIRM (confidence: 0.85) | Visual: CONFIRMS
+2025-05-28 10:05:52,629 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 10:05:52,630 - INFO - Message sent to Telegram successfully
+2025-05-28 10:05:53,057 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-28 10:05:53,058 - INFO - Message sent to Telegram successfully
+2025-05-28 10:05:53,058 - INFO - Signal sent for PONY: SELL - Bearish Divergence (ChatGPT: CONFIRM)
+2025-05-28 10:19:38,050 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 10:19:38,631 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 10:19:38,631 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 10:19:38,631 - INFO - Analyzing BBCA.JK...
+2025-05-28 10:19:38,631 - INFO - Fetching BBCA.JK data for period: 60d
+2025-05-28 10:19:39,964 - INFO - Successfully fetched 60 days of data for BBCA.JK
+2025-05-28 10:19:41,258 - INFO - Using ChatGPT Vision analysis for BBCA.JK with chart image
+2025-05-28 10:19:41,258 - INFO - Requesting ChatGPT Vision + Statistical confirmation for BBCA.JK (attempt 1)
+2025-05-28 10:20:10,012 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 10:20:10,018 - INFO - ChatGPT Vision + Statistical analysis complete for BBCA.JK: PROCEED_WITH_CAUTION (confidence: 0.75) | Visual: CONFIRMS
+2025-05-28 10:20:10,019 - INFO - Watchlist stock BBCA.JK: Using lower threshold 0.5 and boosted confidence
+2025-05-28 10:20:14,506 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 10:20:14,507 - INFO - Message sent to Telegram successfully
+2025-05-28 10:20:16,080 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-28 10:20:16,082 - INFO - Message sent to Telegram successfully
+2025-05-28 10:20:16,082 - INFO - Signal sent for BBCA.JK: SELL - Bearish Divergence (ChatGPT: PROCEED_WITH_CAUTION)
+2025-05-28 10:20:54,322 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 10:20:54,886 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 10:20:54,886 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 10:20:54,886 - INFO - Analyzing MRAT.JK...
+2025-05-28 10:20:54,886 - INFO - Fetching MRAT.JK data for period: 60d
+2025-05-28 10:20:56,437 - INFO - Successfully fetched 60 days of data for MRAT.JK
+2025-05-28 10:20:57,746 - INFO - Using ChatGPT Vision analysis for MRAT.JK with chart image
+2025-05-28 10:20:57,746 - INFO - Requesting ChatGPT Vision + Statistical confirmation for MRAT.JK (attempt 1)
+2025-05-28 10:21:17,682 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 10:21:17,686 - INFO - ChatGPT Vision + Statistical analysis complete for MRAT.JK: PROCEED_WITH_CAUTION (confidence: 0.85) | Visual: CONFIRMS
+2025-05-28 10:21:21,850 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 10:21:21,852 - INFO - Message sent to Telegram successfully
+2025-05-28 10:21:23,534 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-28 10:21:23,535 - INFO - Message sent to Telegram successfully
+2025-05-28 10:21:23,536 - INFO - Signal sent for MRAT.JK: STRONG_SELL - Price Crash with Volume (ChatGPT: PROCEED_WITH_CAUTION)
+2025-05-28 10:22:10,976 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 10:22:11,562 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 10:22:11,562 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 10:22:11,562 - INFO - Analyzing ANTM.JK...
+2025-05-28 10:22:11,562 - INFO - Fetching ANTM.JK data for period: 60d
+2025-05-28 10:22:13,134 - INFO - Successfully fetched 60 days of data for ANTM.JK
+2025-05-28 10:22:14,409 - INFO - Using ChatGPT Vision analysis for ANTM.JK with chart image
+2025-05-28 10:22:14,409 - INFO - Requesting ChatGPT Vision + Statistical confirmation for ANTM.JK (attempt 1)
+2025-05-28 10:22:31,682 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 10:22:31,686 - INFO - ChatGPT Vision + Statistical analysis complete for ANTM.JK: CONFIRM (confidence: 0.85) | Visual: CONFIRMS
+2025-05-28 10:22:35,528 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 10:22:35,529 - INFO - Message sent to Telegram successfully
+2025-05-28 10:22:37,548 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-28 10:22:37,549 - INFO - Message sent to Telegram successfully
+2025-05-28 10:22:37,549 - INFO - Signal sent for ANTM.JK: SELL - Bearish Divergence (ChatGPT: CONFIRM)
+2025-05-28 10:54:01,910 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 10:54:02,505 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 10:54:02,506 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 10:54:02,506 - INFO - Analyzing ANTM.JK...
+2025-05-28 10:54:02,507 - INFO - Fetching ANTM.JK data for period: 1y
+2025-05-28 10:54:07,279 - INFO - Successfully fetched 240 days of data for ANTM.JK
+2025-05-28 10:54:09,463 - INFO - Using ChatGPT Vision analysis for ANTM.JK with chart image
+2025-05-28 10:54:09,463 - INFO - Requesting ChatGPT Vision + Statistical confirmation for ANTM.JK (attempt 1)
+2025-05-28 10:54:33,083 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 10:54:33,099 - INFO - ChatGPT Vision + Statistical analysis complete for ANTM.JK: CONFIRM (confidence: 0.85) | Visual: CONFIRMS
+2025-05-28 10:54:37,959 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 10:54:37,959 - INFO - Message sent to Telegram successfully
+2025-05-28 10:54:40,802 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-28 10:54:40,803 - INFO - Message sent to Telegram successfully
+2025-05-28 10:54:40,803 - INFO - Signal sent for ANTM.JK: SELL - Long-term Bearish Divergence (ChatGPT: CONFIRM)
+2025-05-28 10:57:21,511 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 10:57:22,094 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 10:57:22,094 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 10:57:22,094 - INFO - Analyzing ANTM.JK...
+2025-05-28 10:57:22,095 - INFO - Fetching ANTM.JK data for period: 1y
+2025-05-28 10:57:23,505 - INFO - Successfully fetched 240 days of data for ANTM.JK
+2025-05-28 10:57:25,379 - INFO - Using ChatGPT Vision analysis for ANTM.JK with chart image
+2025-05-28 10:57:25,379 - INFO - Requesting ChatGPT Vision + Statistical confirmation for ANTM.JK (attempt 1)
+2025-05-28 10:57:45,166 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 10:57:45,171 - INFO - ChatGPT Vision + Statistical analysis complete for ANTM.JK: CONFIRM (confidence: 0.85) | Visual: CONFIRMS
+2025-05-28 10:57:50,464 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-28 10:57:50,466 - INFO - Message sent to Telegram successfully
+2025-05-28 10:57:51,917 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-28 10:57:51,918 - INFO - Message sent to Telegram successfully
+2025-05-28 10:57:51,918 - INFO - Signal sent for ANTM.JK: SELL - Long-term Bearish Divergence (ChatGPT: CONFIRM)
+2025-05-28 10:58:11,792 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 10:58:12,377 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 10:58:12,377 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 10:58:12,377 - INFO - Analyzing ANTM.JK...
+2025-05-28 10:58:12,377 - INFO - Fetching ANTM.JK data for period: 1y
+2025-05-28 10:58:13,641 - INFO - Successfully fetched 240 days of data for ANTM.JK
+2025-05-28 10:59:39,284 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 10:59:39,886 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 10:59:39,886 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 10:59:39,886 - INFO - Analyzing SUNI.JK...
+2025-05-28 10:59:39,886 - INFO - Fetching SUNI.JK data for period: 1y
+2025-05-28 10:59:41,275 - INFO - Successfully fetched 240 days of data for SUNI.JK
+2025-05-28 10:59:59,027 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 10:59:59,619 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 10:59:59,620 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 10:59:59,620 - INFO - Analyzing SUNI.JK...
+2025-05-28 10:59:59,620 - INFO - Fetching SUNI.JK data for period: 1y
+2025-05-28 11:00:00,680 - INFO - Successfully fetched 240 days of data for SUNI.JK
+2025-05-28 11:03:06,356 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 11:03:06,965 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 11:03:06,966 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 11:03:06,966 - INFO - Analyzing SUNI.JK...
+2025-05-28 11:03:06,966 - INFO - Fetching SUNI.JK data for period: 6mo
+2025-05-28 11:03:08,053 - INFO - Successfully fetched 112 days of data for SUNI.JK
+2025-05-28 11:03:37,198 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-28 11:03:37,785 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-28 11:03:37,786 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-28 11:03:37,786 - INFO - Analyzing SUNI.JK...
+2025-05-28 11:03:37,786 - INFO - Fetching SUNI.JK data for period: 6mo
+2025-05-28 11:03:38,994 - INFO - Successfully fetched 112 days of data for SUNI.JK
+2025-05-29 19:51:44,772 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-29 19:51:45,420 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-29 19:51:45,420 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-29 19:51:45,421 - INFO - Analyzing BTC-USD...
+2025-05-29 19:51:45,421 - INFO - Fetching BTC-USD data for period: 1y
+2025-05-29 19:51:47,789 - INFO - Successfully fetched 366 days of data for BTC-USD
+2025-05-29 19:51:50,334 - INFO - Using ChatGPT Vision analysis for BTC-USD with chart image
+2025-05-29 19:51:50,334 - INFO - Requesting ChatGPT Vision + Statistical confirmation for BTC-USD (attempt 1)
+2025-05-29 19:52:13,905 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-29 19:52:13,920 - INFO - ChatGPT Vision + Statistical analysis complete for BTC-USD: CONFIRM (confidence: 0.85) | Visual: CONFIRMS
+2025-05-29 19:52:18,106 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-29 19:52:18,108 - INFO - Message sent to Telegram successfully
+2025-05-29 19:52:18,529 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-29 19:52:18,531 - INFO - Message sent to Telegram successfully
+2025-05-29 19:52:18,531 - INFO - Signal sent for BTC-USD: BUY - Strong Uptrend Continuation (ChatGPT: CONFIRM)
+2025-05-29 19:59:23,444 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-29 19:59:24,140 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-29 19:59:24,140 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-29 19:59:24,807 - INFO - Interactive Trading Bot initialized
+2025-05-29 19:59:24,809 - INFO - Starting Interactive Trading Bot...
+2025-05-29 19:59:26,290 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-29 19:59:26,880 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getMe "HTTP/1.1 200 OK"
+2025-05-29 19:59:26,881 - INFO - Application started
+2025-05-29 19:59:27,127 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/deleteWebhook "HTTP/1.1 200 OK"
+2025-05-29 19:59:32,472 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 19:59:33,294 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-29 19:59:42,654 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 19:59:47,381 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 19:59:48,183 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-29 19:59:57,577 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 19:59:59,049 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 19:59:59,859 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-29 19:59:59,860 - INFO - Analyzing ETH-USD...
+2025-05-29 19:59:59,861 - INFO - Fetching ETH-USD data for period: 1y
+2025-05-29 20:00:02,374 - INFO - Successfully fetched 366 days of data for ETH-USD
+2025-05-29 20:00:04,652 - INFO - Using ChatGPT Vision analysis for ETH-USD with chart image
+2025-05-29 20:00:04,654 - INFO - Requesting ChatGPT Vision + Statistical confirmation for ETH-USD (attempt 1)
+2025-05-29 20:00:09,232 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 20:00:19,420 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 20:00:23,335 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-29 20:00:23,339 - INFO - ChatGPT Vision + Statistical analysis complete for ETH-USD: CONFIRM (confidence: 0.85) | Visual: CONFIRMS
+2025-05-29 20:00:27,356 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-29 20:00:27,358 - INFO - Message sent to Telegram successfully
+2025-05-29 20:00:27,860 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-29 20:00:27,861 - INFO - Message sent to Telegram successfully
+2025-05-29 20:00:27,861 - INFO - Signal sent for ETH-USD: BUY - Strong Uptrend Continuation (ChatGPT: CONFIRM)
+2025-05-29 20:00:28,644 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/editMessageText "HTTP/1.1 200 OK"
+2025-05-29 20:00:28,646 - INFO - Analysis sent for ETH-USD: BUY
+2025-05-29 20:00:29,606 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 20:00:39,831 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 20:00:50,110 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 20:01:00,311 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 20:01:10,500 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 20:01:20,688 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 20:01:30,899 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 20:01:36,532 - INFO - Application is stopping. This might take a moment.
+2025-05-29 20:01:36,532 - INFO - Application.stop() complete
+2025-05-29 20:05:27,367 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-29 20:05:27,983 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-29 20:05:27,983 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-29 20:05:27,983 - INFO - Analyzing BTC-USD...
+2025-05-29 20:05:27,984 - INFO - Fetching BTC-USD data for period: 1y
+2025-05-29 20:05:31,086 - INFO - Successfully fetched 366 days of data for BTC-USD
+2025-05-29 20:05:32,996 - INFO - Using ChatGPT Vision analysis for BTC-USD with chart image
+2025-05-29 20:05:32,996 - INFO - Requesting ChatGPT Vision + Statistical confirmation for BTC-USD (attempt 1)
+2025-05-29 20:05:51,196 - INFO - OpenAI client initialized for ChatGPT confirmation
+2025-05-29 20:05:51,873 - INFO - Indonesian Stock Trading Bot initialized with enhanced sell signals
+2025-05-29 20:05:51,876 - INFO - Watchlist enabled with 5 stocks: BBCA.JK, BBRI.JK, BMRI.JK, TLKM.JK, AADI.JK
+2025-05-29 20:05:52,531 - INFO - Interactive Trading Bot initialized
+2025-05-29 20:05:52,531 - INFO - Starting Interactive Trading Bot...
+2025-05-29 20:05:54,142 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-29 20:05:54,710 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getMe "HTTP/1.1 200 OK"
+2025-05-29 20:05:54,711 - INFO - Application started
+2025-05-29 20:05:54,894 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/deleteWebhook "HTTP/1.1 200 OK"
+2025-05-29 20:05:56,262 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-29 20:05:56,265 - INFO - ChatGPT Vision + Statistical analysis complete for BTC-USD: CONFIRM (confidence: 0.85) | Visual: CONFIRMS
+2025-05-29 20:06:00,033 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-29 20:06:00,035 - INFO - Message sent to Telegram successfully
+2025-05-29 20:06:00,441 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-29 20:06:00,443 - INFO - Message sent to Telegram successfully
+2025-05-29 20:06:00,443 - INFO - Signal sent for BTC-USD: BUY - Strong Uptrend Continuation (ChatGPT: CONFIRM)
+2025-05-29 20:06:05,458 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 20:06:12,798 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 20:06:13,548 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-29 20:06:13,549 - INFO - Analyzing BTC-IDR...
+2025-05-29 20:06:13,550 - INFO - Fetching BTC-IDR data for period: 1y
+2025-05-29 20:06:17,485 - WARNING - Failed to fetch BTC-IDR with period 1y: HTTP Error 404: 
+2025-05-29 20:06:17,485 - INFO - Fetching BTC-IDR data for period: 30d
+2025-05-29 20:06:17,486 - WARNING - Failed to fetch BTC-IDR with period 30d: argument of type 'NoneType' is not iterable
+2025-05-29 20:06:17,486 - INFO - Fetching BTC-IDR data for period: 1mo
+2025-05-29 20:06:18,617 - ERROR - $BTC-IDR: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-05-29 20:06:18,618 - WARNING - No data found for BTC-IDR with period 1mo
+2025-05-29 20:06:18,619 - INFO - Fetching BTC-IDR data for period: 3mo
+2025-05-29 20:06:20,048 - ERROR - $BTC-IDR: possibly delisted; no price data found  (period=3mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-05-29 20:06:20,049 - WARNING - No data found for BTC-IDR with period 3mo
+2025-05-29 20:06:20,050 - ERROR - All periods failed for BTC-IDR
+2025-05-29 20:06:20,050 - WARNING - Insufficient data for BTC-IDR
+2025-05-29 20:06:20,896 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/editMessageText "HTTP/1.1 200 OK"
+2025-05-29 20:06:22,980 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 20:06:33,175 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 20:06:39,758 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 20:06:40,577 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-29 20:06:40,578 - INFO - Analyzing BTC-USD...
+2025-05-29 20:06:40,578 - INFO - Fetching BTC-USD data for period: 1y
+2025-05-29 20:06:41,249 - INFO - Successfully fetched 366 days of data for BTC-USD
+2025-05-29 20:06:43,660 - INFO - Using ChatGPT Vision analysis for BTC-USD with chart image
+2025-05-29 20:06:43,661 - INFO - Requesting ChatGPT Vision + Statistical confirmation for BTC-USD (attempt 1)
+2025-05-29 20:06:49,957 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 20:07:00,155 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 20:07:03,036 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-29 20:07:03,037 - INFO - ChatGPT Vision + Statistical analysis complete for BTC-USD: CONFIRM (confidence: 0.85) | Visual: CONFIRMS
+2025-05-29 20:07:06,493 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendPhoto "HTTP/1.1 200 OK"
+2025-05-29 20:07:06,494 - INFO - Message sent to Telegram successfully
+2025-05-29 20:07:06,876 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/sendMessage "HTTP/1.1 200 OK"
+2025-05-29 20:07:06,877 - INFO - Message sent to Telegram successfully
+2025-05-29 20:07:06,877 - INFO - Signal sent for BTC-USD: BUY - Strong Uptrend Continuation (ChatGPT: CONFIRM)
+2025-05-29 20:08:44,711 - ERROR - Error analyzing BTC-USD: Timed out
+2025-05-29 20:08:49,727 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\httpx\_transports\default.py", line 66, in map_httpcore_exceptions
+    yield
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\httpx\_transports\default.py", line 366, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\httpcore\_async\connection_pool.py", line 216, in handle_async_request
+    raise exc from None
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\httpcore\_async\connection_pool.py", line 196, in handle_async_request
+    response = await connection.handle_async_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\httpcore\_async\connection.py", line 99, in handle_async_request
+    raise exc
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\httpcore\_async\connection.py", line 76, in handle_async_request
+    stream = await self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\httpcore\_async\connection.py", line 122, in _connect
+    stream = await self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\httpcore\_backends\auto.py", line 30, in connect_tcp
+    return await self._backend.connect_tcp(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\httpcore\_backends\anyio.py", line 114, in connect_tcp
+    with map_exceptions(exc_map):
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\request\_httpxrequest.py", line 268, in do_request
+    res = await self._client.request(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\httpx\_client.py", line 1530, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\httpx\_client.py", line 1617, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\httpx\_client.py", line 1645, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\httpx\_client.py", line 1682, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\httpx\_client.py", line 1719, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\httpx\_transports\default.py", line 365, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\httpx\_transports\default.py", line 83, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\_application.py", line 1234, in process_update
+    await coroutine
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\_basehandler.py", line 157, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Project\Python\TradingBot\interactive_telegram_bot.py", line 276, in analyze_command
+    await analyzing_msg.edit_text(
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\_message.py", line 2536, in edit_text
+    return await self.get_bot().edit_message_text(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\_extbot.py", line 1473, in edit_message_text
+    return await super().edit_message_text(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\_bot.py", line 525, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\_bot.py", line 3288, in edit_message_text
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\_extbot.py", line 522, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\_bot.py", line 703, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\_bot.py", line 613, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\ext\_extbot.py", line 340, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\_bot.py", line 641, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\request\_baserequest.py", line 200, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\request\_baserequest.py", line 340, in _request_wrapper
+    raise exc
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    code, payload = await self.do_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fadhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\telegram\request\_httpxrequest.py", line 285, in do_request
+    raise TimedOut from err
+telegram.error.TimedOut: Timed out
+2025-05-29 20:09:19,890 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 20:09:30,072 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 20:09:40,267 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
+2025-05-29 20:09:50,451 - INFO - HTTP Request: POST https://api.telegram.org/bot7722311907:AAEpV1FPB9qr2jAXehLN33cVNaOLRtqkKwI/getUpdates "HTTP/1.1 200 OK"
